@@ -37,9 +37,6 @@ import nltk
 import string
 import numpy as np
 import re
-import codecs
-from nltk.cluster.util import cosine_distance
-import networkx as nx
 
 
 nltk.download('punkt')
