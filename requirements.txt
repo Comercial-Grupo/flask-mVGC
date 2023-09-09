@@ -8,6 +8,5 @@ Werkzeug==1.0.1
 langchain
 openai
 pyngrok
-Flask-gTTS==0.18
 codecs
 string
